@@ -18,23 +18,20 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 1<p>Sept 11 </p></td>
     <td valign="top">
     <li>Course and Student Introductions</li>
-    <li>Overview of the Course & Syllabus </li>
-    
+    <li>Overview of the Course & Syllabus </li>   
     <li>Discuss</li>
       <ul>
       <li>Word Lists</li>
       <li>Mind Maps</li>
       <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
        <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Module 1 </a></li>
-      </ul>
-     
+      </ul>   
       <li> Discuss: Assignment: Process Website </li>
       <li> Discuss: Assignmnet: Notebook or Sketchbook</li>
        <li>Discuss: Assignment: Constant Input or Constant Output</li>
       <li> Discuss: Assignment: Personal Inventory </li>
       <li> Discuss: Input Map </li>
     </td>
-
     <td valign="top">
     <li>Phase 1: Discovery / Inspiration / Process:</li>
      <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Read: Module 1 (including links) </a></li>
@@ -44,13 +41,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.)</li>
     <li><a href = "personal_inventory.md">Personal Inventories</li> </a> 
-    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>
-    
+    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website</li>  
     </td>
 </tr>
-
-
-    <tr>
+<tr>
     <td valign="top">wk 2<p>Sept 18</p>
     <strong><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></strong></td>
     <td valign="top">
@@ -63,25 +57,19 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> 5 phases</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href="input_map.md">Input Maps</a></li>
-    </ul>
-
-    
+    </ul>  
     <ul>
     <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
     <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
-   
     </ul>
     </td> 
     <td valign="top">
     <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
      <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 </a> </li>
-     
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 </a> </li>    
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
-
-
 <tr>
     <td valign="top">wk 3<p>Sept 25</p></td>
     <td valign="top"><li>Phase 1: Discovery / Inspiration / Process</li>
@@ -95,17 +83,13 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 </ul>
 </td>  
-
     <td valign="top">
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
-     <li><a href = "creative_process.md">Each student is to create an individual annotated bibliography, mood board and an image or text storyboard. </a></li>
- 
+     <li><a href = "creative_process.md">Each student is to create an individual annotated bibliography, mood board and an image or text storyboard. </a></li> 
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     <ul>  
 </td>
 </tr>
-
-
 <tr>
     <td valign="top">wk 4<p>Oct 2</p></td>
     <td valign="top"><li>Phase 1: Discovery / Inspiration / Process</li>
@@ -114,24 +98,17 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Discuss Process</li>      
     <li>Review Homework</li>
     </ul></td>
-
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
     <li><a href = "creative_process.md">Annotated Bibliography group draft, Image or Text Group Storyboard draft, and Group Animatic Draft</a></li>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    
-      
-
 </td>
 </tr>
 <tr>
-    <td valign="top">wk 5<p>Oct 16 </p></td>
-    
+    <td valign="top">wk 5<p>Oct 16 </p></td>  
     <td valign="top"> <li>Review Homework</li>
-
     <td>
-    <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
    <li>Watch</li>
         <ul>
@@ -139,9 +116,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
         <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
         </ul>
-    <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary: Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li>
-        
-    </ul>        
+    <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary: Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li>      
     </td>
 </tr>
 <tr>
@@ -162,7 +137,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary: Iterate hybrid animatic/video draft, group draft of paper</a></li>
-   
     </ul>   
     </td>
 </tr>
@@ -172,7 +146,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <ul>
         <li>Ideation</li></ul>
@@ -180,7 +153,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </ul>    
     </td>
 </tr>
-
 <tr>
     <td valign="top">wk 9<p>Nov 13</p></td>
     <td valign="top">Review Homework</td>    
@@ -208,7 +180,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Sketching and Mapping</li>
     <li>Secondary Research</li>
     </ul>
-    </ul>  
     </td>
 </tr>
 <tr>
