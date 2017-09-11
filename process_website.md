@@ -26,3 +26,6 @@ Please remember to bring your laptop with you when you visit a session.
 
 If you choose wordpress on bxmc.poly.edu, set up your class website at
   * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
+
+
+POST THE URL TO YOUR SITE in the SLACK channel "studentsites"
