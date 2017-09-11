@@ -133,7 +133,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-   
+   <li>Watch</li>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
+        <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
+        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
+        </ul>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary: Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li>
         
     </ul>        
@@ -145,7 +150,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments.</li>
+    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary: Iterate hybrid animatic/video draft, group draft of paper</a></li>
     </ul>
     </td>
@@ -163,15 +168,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 8<p>Nov 6</p></td>      
-    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique</strong></td>
+    <td valign="top"><strong>Last Day to drop. <br>Midterm Class Critique - Process Presentations</strong></td>
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
-        <ul>
-        <li>Final Annotated Bibliography DUE</li>
-        <li>Final Research Paper DUE</li>
-        </ul></strong>
+    
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <ul>
         <li>Ideation</li></ul>
