@@ -222,7 +222,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>
     <td valign="top">
     <ul>
-    <li>strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     </ul></ul></td>
@@ -237,8 +237,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
     <td valign="top">Dec 19</td>
     <td valign="top">
-        <a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a>
-        </ul>
+    <a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a>
     </td>
     <td></td>
 </tr>
