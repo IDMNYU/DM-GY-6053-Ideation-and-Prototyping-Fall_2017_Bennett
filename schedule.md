@@ -147,7 +147,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         <li>Brainstorm themes</li>
         <li>Ideation</li>
         </ul>
-
     </ul>    
     </td>
 </tr>
@@ -158,7 +157,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
      <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
-    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
     <ul>
     <li>Ideation continued</li>
     <li>Storytelling</li>
@@ -202,7 +201,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li>strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
     <li>Lo-fi Prototype Draft</li>
     </ul></ul>
@@ -213,7 +212,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
-    <li>strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     </ul></ul></td>
@@ -230,17 +229,15 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 15<p>Dec 18</p></td>
-    <td valign="top">Final Class Critique</td>
-    <td valign="top"><strong>
-    <ul>
-    <li><strong> Phase 5: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></li>
-    </ul></strong>
+    <td valign="top">Final Class Critique <br><li><strong> Phase 5: Pitching & Presenting: </strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></td>
+    <td valign="top">
+    <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
     </td>
 </tr>
 <tr>
     <td valign="top">Dec 19</td>
     <td valign="top">
-        <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
+        <a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a>
         </ul>
     </td>
     <td></td>
