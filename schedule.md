@@ -81,9 +81,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 </td>  
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
+    <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
-     <li><a href = "creative_process.md">CPABVD: </a>Each student is to create an individual annotated bibliography, mood board and an image or text storyboard.</li> 
-    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> 
+     <li><a href = "creative_process.md">CPABVD: </a>Each student is to create: <br> </li>
+     <ul>
+     <li> an individual annotated bibliography</li>
+     <li> mood board </li>
+     <li> an image or text storyboard.</li>  </ul>
+    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> </ul>
 </td>
 </tr>
 <tr>
@@ -94,23 +99,26 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Review Homework</li>
     </td>
     <td valign="top">
+    <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "creative_process.md">CPABVD: </a>Annotated Bibliography GROUP draft, Image or Text GROUP Storyboard draft, AND GROUP Animatic Draft</a></li>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href = "creative_process.md">CPABVD: </a></li><ul><li>Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
 </td>
 </tr>
 <tr>
     <td valign="top">wk 5<p>Oct 16 </p></td>  
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
     <td>
+    <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    
    <li>Watch</li>
         <ul>
         <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
         <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
         </ul>
-    <li><a href = "creative_process.md">CPABVD: </a> Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li>      
+    <li><a href = "creative_process.md">CPABVD: </a> Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li> </ul>     
     </td>
 </tr>
 <tr>
@@ -120,8 +128,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
-    <li><a href = "creative_process.md">CPABVD: </a> Iterate hybrid animatic/video draft AND group draft of paper</a></li>
-    </ul>
+    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul>
+    <li>Iterate hybrid animatic/video draft</li>
+    <li> group draft of paper</li>
+    </ul> </ul>
     </td>
 </tr>
 <tr>
@@ -130,7 +140,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><<a href = "creative_process.md">CPABVD: </a> Iterate hybrid animatic/video draft AND group draft of paper</a></li>
+    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Iterate hybrid animatic/video draft </li> <li>group draft of paper</a></li> </ul>
     </ul>   
     </td>
 </tr>
@@ -164,13 +174,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Sketching and Mapping</li>
     <li>Secondary Research</li>
     </ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
     </td>
 </tr>
 <tr>
     <td valign="top">wk 10<p>Nov 20</p></td> 
     <td valign="top">Review Homework</td>  
-    <td valign="top">      
+    <td valign="top">  
+    <ul>    
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
     <ul>
@@ -178,7 +189,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Lo-fi Prototype Draft</li>
     <li>Iterate Sketching and Mapping</li>
     <li>Secondary Research</li>
-    </ul>
+    </ul> </ul>
     </td>
 </tr>
 <tr>
