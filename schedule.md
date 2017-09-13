@@ -83,7 +83,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
-     <li><a href = "creative_process.md">CPABVD: </a>Each student is to create: <br> </li>
+     <li><a href = "creative_process.md">CPPABVD: </a>Each student is to create: <br> </li>
      <ul>
      <li> an individual annotated bibliography</li>
      <li> mood board </li>
@@ -101,7 +101,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "creative_process.md">CPABVD: </a></li><ul><li>Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> </ul>
+    <li><a href = "creative_process.md">CPPABVD: </a></li><ul><li>Create Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> </ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
 </td>
 </tr>
@@ -118,7 +118,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
         <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
         </ul>
-    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Create outline for the paper </li> </ul></ul>   
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Create outline for the paper </li> </ul></ul>   
     </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
-    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul>
     <li>Collaboratively iterate hybrid animatic/video draft</li>
     <li>Collaboratively create group draft of paper</li>
     </ul> </ul>
@@ -140,9 +140,16 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate group draft of paper</a></li> </ul>
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate group draft of paper</a></li> </ul>
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) CPPABVD project </li>
     </ul>   
     </td>
+</tr>
+<tr>
+<td></td>
+<td>
+Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
+</td>
 </tr>
 <tr>
     <td valign="top">wk 8<p>Nov 6</p></td>      
@@ -230,27 +237,17 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 14<p>Dec 12</p></td>     
-    <td valign="top">Review Homework</td>
+    <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
     <td valign="top">
-    <ul>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> </li>
-    <ul>
-    <li>Hi-Fidelity Prototype Draft</li>
-    </ul></ul></td>
+    <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
+    <li>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</li>
+    </td>
 </tr>
 <tr>
     <td valign="top">wk 15<p>Dec 18</p></td>
-    <td valign="top">Final Class Critique <br><li><strong> Phase 5: Pitching & Presenting: </strong><a href="future.md">Future Dystopia / Utopia Project DUE</a></td>
     <td valign="top">
-    <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
-    </td>
-</tr>
-<tr>
-    <td valign="top">Dec 19</td>
-    <td valign="top">
-    <a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a>
-    </td>
-    <td></td>
+Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
+</td>  
 </tr>
 </table>
 
