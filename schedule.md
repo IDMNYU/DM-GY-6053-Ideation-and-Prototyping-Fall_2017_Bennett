@@ -147,7 +147,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td></td>
-<td>
+<td colspan="2">
 Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
 </td>
 </tr>
@@ -245,7 +245,7 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
 </tr>
 <tr>
     <td valign="top">wk 15<p>Dec 18</p></td>
-    <td valign="top">
+    <td valign="top" colspan="2">
 Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
 </td>  
 </tr>
