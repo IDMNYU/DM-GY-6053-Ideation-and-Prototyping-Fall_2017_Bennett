@@ -101,7 +101,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "creative_process.md">CPABVD: </a></li><ul><li>Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li>
+    <li><a href = "creative_process.md">CPABVD: </a></li><ul><li>Annotated Bibliography GROUP draft </li> <li>Image or Text GROUP Storyboard draft </li> <li>GROUP Animatic Draft</li> </ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li> </ul>
 </td>
 </tr>
@@ -118,7 +118,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
         <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
         </ul>
-    <li><a href = "creative_process.md">CPABVD: </a> Collaboratively Create hybrid animatic/video draft or create video draft; Collaboratively Create outline for the paper</a></li> </ul>     
+    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Create outline for the paper </li> </ul></ul>   
     </td>
 </tr>
 <tr>
@@ -129,8 +129,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details.</li>
     <li><a href = "creative_process.md">CPABVD: </a> </li> <ul>
-    <li>Iterate hybrid animatic/video draft</li>
-    <li> group draft of paper</li>
+    <li>Collaboratively iterate hybrid animatic/video draft</li>
+    <li>Collaboratively create group draft of paper</li>
     </ul> </ul>
     </td>
 </tr>
@@ -140,7 +140,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Iterate hybrid animatic/video draft </li> <li>group draft of paper</a></li> </ul>
+    <li><a href = "creative_process.md">CPABVD: </a> </li> <ul> <li>Collaboratively iterate hybrid animatic/video draft </li> <li>Collaboratively iterate group draft of paper</a></li> </ul>
     </ul>   
     </td>
 </tr>
@@ -152,7 +152,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your personal inventory), product, or service, and post it on your process website. See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+    <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
         <ul>
         <li>Brainstorm themes</li>
         <li>Ideation</li>
@@ -167,7 +167,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
      <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
-    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+    <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li> 
     <ul>
     <li>Ideation continued</li>
     <li>Storytelling</li>
@@ -183,7 +183,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">  
     <ul>    
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+    <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
     <ul>
     <li>Storyboard Draft</li>
     <li>Lo-fi Prototype Draft</li>
@@ -198,10 +198,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li> 
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
         <ul>
-        <li>iterate Lo-fi Prototype Delivery medium</li>
-        <li>iterate Lo-fi Prototype Draft</li>
+        <li>Iterate Lo-fi Prototype Delivery medium</li>
+        <li>Iterate Lo-fi Prototype Draft</li>
         </ul>
     </ul>
     </td>
@@ -212,7 +212,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
     <li>Lo-fi Prototype Draft</li>
     </ul></ul>
@@ -220,10 +220,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 13<p>Dec 11</p></td>
-    <td valign="top">Review Homework</td>   
+    <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td>   
     <td valign="top">
     <ul>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     </ul></ul></td>
@@ -233,7 +233,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">Review Homework</td>
     <td valign="top">
     <ul>
-    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project</a></li>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> </li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     </ul></ul></td>

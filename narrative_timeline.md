@@ -13,6 +13,8 @@ Create a narrative timeline thread of influences by either creating:
 Select a theme of your choosing (Consider using one of the themes below to get you started, but you'll need to get much more specific): 
 * Find & research a subset of this theme (something of interest to you) where you can show a narrative timeline thread of influences. 
 
+Post the timeline to your Process site
+
 ---
 Possible Themes:
 
