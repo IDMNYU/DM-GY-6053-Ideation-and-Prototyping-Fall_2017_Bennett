@@ -53,10 +53,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     Discuss: <br>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
-    <li>Studio Critique Rules. Follow <a href="" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
+    <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
     <li> 5 phases</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
     <li><a href="input_map.md">Input Maps</a></li>
+    <li><a href = "personal_inventory.md">Personal Inventories</li> </a> 
     <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
     <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
     </ul>

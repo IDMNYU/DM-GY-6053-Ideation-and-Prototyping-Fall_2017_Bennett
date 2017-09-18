@@ -3,7 +3,7 @@
 
 # TIME MANAGEMENT & PRODUCTIVITY RESOURCES 
 
-Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
+I hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
 * [Personal Kanban](http://www.personalkanban.com)
 * [RescueTime](http://rescuetime.com) 
 * [Zapier](http://zapier.com)
@@ -13,7 +13,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
 * [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
-* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
+* [Neil Fiore’s Sample Unschedule --I suggest a modified version of this as we will discuss](http://www.neilfiore.com/now-habit-schedules/)
 
 *Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
 * [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
