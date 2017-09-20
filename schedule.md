@@ -66,6 +66,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
      <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 </a> </li>    
+     <li> Read letters to next cohort (found on Slack resources)</li>
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
