@@ -65,7 +65,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
      <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</li>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 </a> </li>    
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>   
+     <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li> 
      <li> Read letters to next cohort (found on Slack resources)</li>
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
@@ -74,7 +75,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">wk 3<p>Sept 25</p></td>
     <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
 
-<li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a> &amp; <a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
 <li>Review Homework</li>
 <li> Present Classmate discovery </li>
 <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
@@ -110,6 +110,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
     <td valign="top">wk 5<p>Oct 16 </p></td>  
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
+    <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a> &amp; <a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
+
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
