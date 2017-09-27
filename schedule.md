@@ -11,8 +11,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <table width="100%">
 <tr>
     <th width="8%">wk</th>
-    <th width="43%">Class</th>
-    <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
+    <th width="36%">Class</th>
+    <th width="56%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
 </tr>
 <tr>
     <td valign="top">wk 1<p>Sept 11 </p></td>
