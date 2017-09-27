@@ -11,8 +11,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <table width="100%">
 <tr>
     <th width="8%">wk</th>
-    <th width="36%">Class</th>
-    <th width="56%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
+    <th width="46%">Class</th>
+    <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
 </tr>
 <tr>
     <td valign="top">wk 1<p>Sept 11 </p></td>
@@ -110,8 +110,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
     <td valign="top">wk 5<p>Oct 16 </p></td>  
     <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
-    <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a> &amp; <a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
-
+    <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
