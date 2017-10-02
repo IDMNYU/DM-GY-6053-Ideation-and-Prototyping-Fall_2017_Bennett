@@ -14,7 +14,8 @@ Choose either for the entire semester. **Do not do both**:
 *   Discovery logs can NOT be submitted after each due date.
 *   If you didn’t discover anything new, post literally that you did not discover anything new this week.
 
-What’s new and different in your life in the following categories? Why does it appeal to you or not? **Post on your process website on a daily or weekly basis.**
+What’s new and different in your life in the following categories? Why does it appeal to you or not? Tell me about your post and why you are posting it here. What is this find and why is it significant?
+**Post on your process website on a daily or weekly basis.**
 
 *   _Entertainment_ (Movies, Sports, Theater, Music, Museums, Zoos, Theme Parts, etc.)
 *   _Media_ (Newspapers, Magazines, Books, TV, Radio, Internet, etc.)
