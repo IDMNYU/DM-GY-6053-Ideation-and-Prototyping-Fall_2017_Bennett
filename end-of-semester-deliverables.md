@@ -4,7 +4,7 @@
 # END OF SEMESTER DELIVERABLES
 
  
-##Create a google drive folder, I&P Fall 2017 and share with katherine.bennett@nyu.edu
+## Create a google drive folder, I&P Fall 2017 and share with katherine.bennett@nyu.edu
 
 <ul>
 <li>Future Dystopia Utopia Documentation (which is different for every student)</li>
