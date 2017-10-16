@@ -120,7 +120,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td>
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Create outline for the paper </li> </ul></ul>   
+    <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> </ul></ul>   
     </td>
 </tr>
 <tr>
