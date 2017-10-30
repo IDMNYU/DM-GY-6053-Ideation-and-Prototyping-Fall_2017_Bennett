@@ -150,7 +150,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 <tr>
 <td></td>
 <td colspan="2">
-Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
+Set up a time to meet with me for 20 minutes to discuss your progress in the course use this <a href = "https://calendly.com/ladyk/mid-term-one-on-ones/11-14-2017">link.</a>
 </td>
 </tr>
 <tr>
