@@ -1,7 +1,7 @@
 ### DM-GY 6053 Ideation and Prototyping
 ##### Spring 2017 • Katherine Bennett • Mondays • 3:30PM-6:20PM • 2MTC MAGNET 811
 
-# Future Dystopia / Utopia Project
+# Final Project
 
 
 _This project can be done as a team or as an individual._
@@ -13,6 +13,8 @@ For the final project in this course, you will be creating a speculative design 
 * Discursive Design
 * Interrogative Design
 * Ludic Design
+
+# Future Dystopia / Utopia Project
 
 Imagine our civilization 20 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population. 
 
