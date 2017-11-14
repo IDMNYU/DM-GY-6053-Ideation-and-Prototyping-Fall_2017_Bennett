@@ -174,8 +174,7 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <td valign="top">Review Homework</td>    
     <td valign="top">
     <ul>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
-     <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
+    
     <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li> 
     <ul>
     <li>Ideation continued</li>
@@ -192,6 +191,8 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <td valign="top">  
     <ul>    
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
+     <li> <a href = "narrative_timeline.md">Create the object evolution timeline for your Dystopia/Utopia Project </a></li>
     <li><strong> Phase 4: Prototyping & Iteration: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
     <ul>
     <li>Storyboard Draft</li>
