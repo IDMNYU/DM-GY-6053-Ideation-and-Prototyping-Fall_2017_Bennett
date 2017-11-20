@@ -174,7 +174,6 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <td valign="top">Review Homework</td>    
     <td valign="top">
     <ul>
-    
     <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site:</li> 
     <ul>
     <li>Ideation continued</li>
