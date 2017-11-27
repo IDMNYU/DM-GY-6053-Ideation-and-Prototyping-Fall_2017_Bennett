@@ -209,6 +209,9 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li> 
         <ul>
+        <li>Storyboard Revision</li>
+        <li>Iterate Sketching and Mapping</li>
+        <li>Secondary Research</li>
         <li>Iterate Lo-fi Prototype Delivery medium</li>
         <li>Iterate Lo-fi Prototype Draft</li>
         </ul>
@@ -223,7 +226,9 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
-    <li>Lo-fi Prototype Draft</li>
+    <li>Storyboard Revision</li>
+    <li> Prototype Draft</li>
+    <li>Iterate Prototype Delivery medium</li>
     </ul></ul>
     </td>
 </tr>
@@ -235,6 +240,7 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
+    <li>Hi-Fidelity Prototype Delivery medium</li>
     </ul></ul></td>
 </tr>
 <tr>
