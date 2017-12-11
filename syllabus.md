@@ -149,7 +149,7 @@ There will be discrete team and individual exercises and projects that require y
 
 *   2% [Input Map](input_map.md)
 *   2% [Love Letter or Breakup Letter](letter.md)
-*   4% [Object Evolution Timeline](evolution_timeline.md)
+*   4% [Object Evolution Timeline](narrative_timeline.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
 *   12% [Constant Input Choices](constant_input_choices.md)

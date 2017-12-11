@@ -245,17 +245,29 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
 </tr>
 <tr>
     <td valign="top">wk 14<p>Dec 12</p></td>     
-    <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
+    <strike>
+    <li>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</li></li></strike>
+    <td valign="top">
+    <ul>
+    <li><strong> Phase 4: Prototyping & Iterating: </strong><a href="future.md">Future Dystopia / Utopia Project.</a> Post evidence of the following to your Process site:</li>
+    <ul>
+    <li>Hi-Fidelity Prototype Draft</li>
+    <li>Hi-Fidelity Prototype Delivery medium</li>
+    </td>
     <td valign="top">
     <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
-    <li>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</li>
-    </td>
 </tr>
 <tr>
     <td valign="top">wk 15<p>Dec 18</p></td>
-    <td valign="top" colspan="2">
-Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.
+    <td valign="top" colspan="2"><strike>
+Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</strike><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
+    <td valign="top">
+    <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
 </td>  
+</tr>
+<tr> <td valign="top">wk 15<p>Dec 21 NOON SHARP</p></td>
+    <td valign="top" colspan="2"> Revised Process Papers Due to me in Slack as a link, as a group DM with your partner.
+    </td>
 </tr>
 </table>
 

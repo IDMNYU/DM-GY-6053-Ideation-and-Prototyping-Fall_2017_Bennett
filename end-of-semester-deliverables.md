@@ -11,7 +11,7 @@
 <li>Creative Process Annotated Bibliography &amp; Video Documentary (.mov, .mp4, etc)</li>
 <li>Personal Inventory</li>
 <li>Classmate Discovery</li>
-<li>Narrative Timeline</li>
+<li>Evolution Timeline</li>
 <li>(If Applicable) Constant Input Native Files</li>
 <li>Final Self Assessment as pdf</li>
 <li>Letter as pdf or Video To Next Cohort (.mov, .mp4, etc)</li>
