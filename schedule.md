@@ -254,7 +254,7 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <ul>
     <li>Hi-Fidelity Prototype Draft</li>
     <li>Hi-Fidelity Prototype Delivery medium</li>
-    <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables</a></li>
+    <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
 </ul></td>
 </tr>
 <tr>
