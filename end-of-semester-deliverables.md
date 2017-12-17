@@ -18,7 +18,7 @@
 <li>Direct message me on Slack your revised Creative Process Paper and Annotated Bibliography &amp; in a group message with your partners by <strong> December 21th NOON Sharp </strong></li>
 <li> Direct message me on Slack a link to your (If Applicable) Constant Output Native Files <strong> Due December 14th </strong> </li>
 <li>Direct message me on Slack <a href = "I&P_final_self_assessment_2017.pdf"> Final Self Assessment as pdf </a><strong> Due December 19th 7pm </strong> </li>
-<Li>Write a letter to the next class or create a 1-2 minute video (.mov, .mp4, etc), giving them advice on how to reach their learning goals and get value out of this course. Send me this document via Slack Direct message s<strong> Due December 19th 7pm </strong></li>
+<Li>Write a letter to the next class or create a 1-2 minute video (.mov, .mp4, etc), giving them advice on how to reach their learning goals and get value out of this course. Send me this document via Slack Direct message <strong> Due December 19th 7pm </strong></li>
 </ul>
 
 
