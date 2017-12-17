@@ -261,8 +261,8 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <td valign="top">wk 15<p>Dec 18</p></td>
     <td valign="top" colspan="2"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong><strike>
 Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</strike></td>
- 
 </td>  
+<td><li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li></td>
 </tr>
 <tr> <td valign="top">wk 15<p>Dec 21 NOON SHARP</p></td>
     <td valign="top" colspan="2"> Revised Process Papers Due to me in Slack as a link, as a group DM with your partner.
