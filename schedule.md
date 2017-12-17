@@ -262,9 +262,9 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
     <td valign="top" colspan="2"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
     <td valign="top">
         <ul>
-            <strike><li>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</strike></li> 
+            <li><strike>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</strike></li> 
             <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
-        </ul>
+        </ul></ul>
     </td>
 </tr>
 <tr><td valign="top">wk 15<p>Dec 21 NOON SHARP</p></td>
