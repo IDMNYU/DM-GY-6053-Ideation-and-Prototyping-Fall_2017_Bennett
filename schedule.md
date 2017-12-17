@@ -259,7 +259,7 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
 </tr>
 <tr>
     <td valign="top">wk 15<p>Dec 18</p></td>
-    <td valign="top" colspan="2"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
+    <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong></td>
     <td valign="top">
         <ul>
             <li><strike>Set up a time to meet with me for 20 minutes to discuss your progress in the course use this link.</strike></li> 
@@ -273,7 +273,6 @@ Set up a time to meet with me for 20 minutes to discuss your progress in the cou
 </tr>
 </table>
 
-Guest Speaker or Field Trip TBD
 
 
 
